@@ -17,7 +17,7 @@ Project documentation with Markdown.
 - IRC channel: `#mkdocs` on freenode.
 - Discussions and support: <https://groups.google.com/forum/#!forum/mkdocs>
 
-## Code of Conduct
+## Code of Conduct New
 
 Everyone interacting in the MkDocs project's codebases, issue trackers, chat
 rooms, and mailing lists is expected to follow the [PyPA Code of Conduct].
